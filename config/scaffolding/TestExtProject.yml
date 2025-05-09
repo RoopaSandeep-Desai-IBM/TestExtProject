@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: TestExtProject
+  gitServerName: roopaGH
+  gitUrl: https://github.com/RoopaSandeep-Desai-IBM
+  gitUsername: RoopaSandeep-Desai-IBM
+  gitBranch: main
